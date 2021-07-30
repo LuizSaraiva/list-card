@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="label_share">Compartilhar</string>
+    <string name="register_successfull">Cadastrado com sucesso!</string>
+    <string name="required_fields">Preencha todos os campos</string>
+    <string name="new_card">Novo Cartão</string>
+    <string name="name">Nome</string>
+    <string name="company">Empresa</string>
+    <string name="phone">Telefone de contato</string>
+    <string name="email">E-mail</string>
+    <string name="card_color">Cor do card:</string>
+    <string name="confirm">Confirmar</string>
+</resources>
